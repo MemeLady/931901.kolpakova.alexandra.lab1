@@ -49,9 +49,10 @@ table{
 }
 td{
     width: 40px; 
-    height: 30px; 
+    height: 35px; 
     border: solid 1px white; 
     text-align:center;
+    vertical-align: bottom;
 }
 .footer{
 	font-family: Arial;
